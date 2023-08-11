@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(245, 187, 245);
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+body {
+    
+    background-size: cover; /* Isso ajustará a imagem ao tamanho do elemento */
+}
